@@ -9,4 +9,4 @@ class Criptografia:
     def criptografar:
     texto = self.frase
     texto = texto.replace("A", "4").replace("a", "4")
-    texto = texto.replace("E", "3")
+    texto = texto.replace("E", "3").replace("e", "3")
