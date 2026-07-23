@@ -1,6 +1,6 @@
 # POO_Python
 
-Este repositório contém a resolução da **Lista de Exercícios de Programação Orientada a Objetos (POO) em Python**, desenvolvida como atividade prática da disciplina. Os exercícios têm como objetivo consolidar os principais conceitos da programação orientada a objetos por meio da implementação de soluções para problemas práticos. :contentReference[oaicite:0]{index=0}
+Este repositório contém a resolução da **Lista de Exercícios de Programação Orientada a Objetos (POO) em Python**, desenvolvida como atividade prática da disciplina. Os exercícios têm como objetivo consolidar os principais conceitos da programação orientada a objetos por meio da implementação de soluções para problemas práticos.
 
 ## 📚 Objetivos
 
