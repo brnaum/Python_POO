@@ -1,4 +1,4 @@
-# POO_Python - Lista de Exercícios 1
+# Python_POO - Lista de Exercícios 1
 
 Este repositório contém a resolução da **Lista 1 de Exercícios de Programação Orientada a Objetos (POO) em Python**, desenvolvida como atividade prática da disciplina. Os exercícios têm como objetivo consolidar os principais conceitos da programação orientada a objetos por meio da implementação de soluções para problemas práticos.
 
@@ -83,13 +83,13 @@ POO_Python/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/POO_Python.git
+git clone https://github.com/seu-usuario/Python_POO.git
 ```
 
 2. Entre na pasta do projeto:
 
 ```bash
-cd POO_Python
+cd Python_POO
 ```
 
 3. Execute o exercício desejado:

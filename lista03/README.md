@@ -1,4 +1,4 @@
-# POO_Python - Lista de Exercícios 3
+# Python_POO - Lista de Exercícios 3
 
 Este repositório contém a resolução da **Lista de Exercícios 3 de Programação Orientada a Objetos (POO) em Python**, composta por **30 exercícios** distribuídos em três níveis de dificuldade: **Básico, Médio e Avançado**. O objetivo da lista é consolidar os conceitos fundamentais e avançados da orientação a objetos por meio da implementação de sistemas práticos e progressivamente mais complexos. 
 
@@ -142,13 +142,13 @@ POO_Python/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/POO_Python.git
+git clone https://github.com/seu-usuario/Python_POO.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd POO_Python
+cd Python_POO
 ```
 
 3. Execute o exercício desejado:

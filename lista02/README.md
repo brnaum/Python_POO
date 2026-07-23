@@ -1,4 +1,4 @@
-# POO_Python - Lista de Exercícios 2
+# Python_POO - Lista de Exercícios 2
 
 Este repositório contém as soluções da **Lista de Exercícios 2** da disciplina de **Programação Orientada a Objetos (POO)**, desenvolvidas em **Python**.
 
@@ -34,13 +34,13 @@ Cada arquivo corresponde a um exercício da lista.
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/POO_Python.git
+git clone https://github.com/seu-usuario/Python_POO.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd POO_Python
+cd Python_POO
 ```
 
 3. Execute o exercício desejado:
