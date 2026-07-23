@@ -7,12 +7,18 @@ Este repositório contém as resoluções das listas de exercícios do módulo d
 ```text
 .
 ├── lista01/
+│   ├── README.md
+│   └── ...
 ├── lista02/
+│   ├── README.md
+│   └── ...
 ├── lista03/
+│   ├── README.md
+│   └── ...
 └── README.md
 ```
 
-Cada pasta corresponde a uma lista de exercícios e contém suas respectivas soluções.
+Cada pasta representa uma lista de exercícios e possui um **README.md** próprio, contendo informações específicas sobre a lista, como descrição, exercícios e observações.
 
 ## Tecnologias
 
@@ -21,7 +27,4 @@ Cada pasta corresponde a uma lista de exercícios e contém suas respectivas sol
 ## Objetivo
 
 Organizar as resoluções das listas e acompanhar a evolução dos estudos em Programação Orientada a Objetos.
-
-## Observação
-
-Este repositório possui finalidade exclusivamente educacional.
+.
