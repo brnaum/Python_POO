@@ -83,7 +83,7 @@ POO_Python/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/brnaum/POO_Python.git
+git clone https://github.com/seu-usuario/POO_Python.git
 ```
 
 2. Entre na pasta do projeto:
